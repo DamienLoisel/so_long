@@ -2,21 +2,21 @@
 
 ## Description
 
-Le projet **so_long** est un jeu en 2D développé dans le cadre du cursus 42. L'objectif est de créer un jeu dans lequel le joueur doit collecter des objets tout en évitant les obstacles et en trouvant la sortie. Le projet inclut également un bonus pour ajouter des fonctionnalités supplémentaires au jeu.
+The **so_long** project is a 2D game developed as part of the 42 curriculum. The objective is to create a game where the player must collect items while avoiding obstacles and finding the exit. The project also includes a bonus to add extra features to the game.
 
-## Fonctionnalités
+## Features
 
-- **Mouvement du joueur** : Déplacement du personnage dans les quatre directions (haut, bas, gauche, droite).
-- **Collecte d'objets** : Ramassage d'objets spécifiques pour progresser dans le jeu.
-- **Gestion des obstacles** : Éviter les obstacles qui peuvent causer la perte de vie ou stopper le jeu.
-- **Affichage graphique** : Utilisation de la bibliothèque graphique (par exemple, MiniLibX) pour afficher le jeu.
+- **Player Movement**: Move the character in four directions (up, down, left, right).
+- **Item Collection**: Gather specific items to progress in the game.
+- **Obstacle Management**: Avoid obstacles that can cause the loss of life or stop the game.
+- **Graphical Display**: Use a graphical library (e.g., MiniLibX) to display the game.
 
 ## Bonus
 
-- **Niveaux supplémentaires** : Ajout de niveaux supplémentaires avec des ennemies.
-- **Animations** : Intégration d'animations pour les mouvements et interactions dans le jeu.
-- **Ennemies** : Ajout d'ennemies qui déclenche un Game Over lorsque le joueur les touches.
-- **Affichage du nombre de mouvement** : Affichage directement en jeu du nombre mouvement du joueur.
+- **Additional Levels**: Add extra levels with enemies.
+- **Animations**: Integrate animations for movements and interactions in the game.
+- **Enemies**: Add enemies that trigger a Game Over when the player touches them.
+- **Movement Count Display**: Display the number of player movements directly in the game.
 
-## Image du jeu
+## Game Image
 ![image](https://github.com/user-attachments/assets/eaee8911-718c-4052-97fd-53e3d339da18)
