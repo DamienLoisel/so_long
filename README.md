@@ -17,3 +17,6 @@ Le projet **so_long** est un jeu en 2D développé dans le cadre du cursus 42. L
 - **Animations** : Intégration d'animations pour les mouvements et interactions dans le jeu.
 - **Ennemies** : Ajout d'ennemies qui déclenche un Game Over lorsque le joueur les touches.
 - **Affichage du nombre de mouvement** : Affichage directement en jeu du nombre mouvement du joueur.
+
+## Image du jeu
+![image](https://github.com/user-attachments/assets/eaee8911-718c-4052-97fd-53e3d339da18)
