@@ -69,7 +69,7 @@ typedef struct s_pos
 
 typedef struct s_sprite
 {
-	void	*image[];
+	void	*image;
 	int		width;
 	int		height;
 }	t_sprite;
